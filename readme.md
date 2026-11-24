@@ -2,7 +2,7 @@
 
 Senior Platform Engineer in Boston. 12+ years building internal developer platforms, CI/CD pipelines, and cloud infrastructure on GCP and AWS.
 
-Currently adding LLM agents to release pipelines at NTT DATA.
+Currently adding LLM agents to release pipelines.
 
 <br>
 
@@ -12,6 +12,7 @@ Currently adding LLM agents to release pipelines at NTT DATA.
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-0d1117?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-0d1117?style=for-the-badge&logo=argo&logoColor=white)
@@ -27,11 +28,18 @@ Currently adding LLM agents to release pipelines at NTT DATA.
 
 **Selected work**
 
-- **Developer portal:** self-service platform on GKE that cut manual tickets by 30%
+- **Developer portal:** self-service platform on GKE that cut manual tickets 
 - **LLM release automation:** Claude Code and Manus in build, test and release workflows
-- **GitLab migration:** 250+ legacy repositories moved with automated tooling
 - **GCP at scale:** modular Terraform for 150+ projects, with automated right-sizing
 - **Platform operations:** 465+ services run, 60+ engineering teams supported
+
+<br>
+
+**Projects**
+
+<a href="https://github.com/ale-dinamarca/aws-drive-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale-dinamarca&repo=aws-drive-clone&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9" alt="aws-drive-clone" />
+</a>
 
 <br>
 
