@@ -36,8 +36,8 @@ Currently adding LLM agents to release pipelines at NTT DATA.
 <br>
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aledinu&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aledinu&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&langs_count=6" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ale-dinamarca&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-dinamarca&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&langs_count=6" alt="Top languages" />
 </p>
 
 <br>
